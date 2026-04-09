@@ -1,2 +1,3 @@
 # apnacollegedemo
-this is my first git project
+this is my first git repository
+author-saransh sharma
